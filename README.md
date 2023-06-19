@@ -1,4 +1,4 @@
-# Cheminformatics
+# Cheminformatics (Building an app for pIC50 prediction)
 In this demo project, I have shown how to upload the necessary libraries and calculate the MACCS keys using rdkit for the SMILES followed by loading several regression models and selecting the best one for prediction.
 This app is run using streamlit.
 
